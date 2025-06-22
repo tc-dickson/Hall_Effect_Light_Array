@@ -1,4 +1,4 @@
-# Project Title
+# Hall-Effect Light Array
 A custom, fan-mounted circuit designed to pulse rotating lights by detecting a magnet mounted to the rim of the fan.
 
 [![YouTube video](https://img.youtube.com/vi/85Fo-b-SYgE/0.jpg)](https://youtube.com/shorts/85Fo-b-SYgE)
